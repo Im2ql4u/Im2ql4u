@@ -1,25 +1,24 @@
-# Hi there, I'm Im2ql4u 👋
+# About me
 
 > Computational scientist exploring machine learning, physics, and scientific computing.
 > Interested in PINNs, quantum many-body systems, neural representations, and large-scale ML applications.
 
 ---
 
-## 🔬 About Me
+##  Work & projects
 
-- 🧠 Working at the intersection of **physics** and **machine learning**
-- 📐 Developing **Physics-Informed Neural Networks (PINNs)** for scientific problem-solving
-- ⚛️ Exploring **quantum many-body systems** and emergent phenomena
-- 🖼️ Researching **neural representations** of physical systems
-- 🚀 Scaling up **large-scale ML applications** for scientific computing
+-  Working at the intersection of **physics** and **machine learning**
+-  Developing **Physics-Informed Neural Networks (PINNs)** for scientific problem-solving
+-  Exploring **quantum many-body systems** and emergent phenomena
+-  Researching **neural representations** of physical systems
+-  Scaling up **large-scale ML applications** for scientific computing
 
 ---
 
-## 🛠️ Interests & Tools
+##  Interests & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-8B4513?style=flat&logo=google&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
