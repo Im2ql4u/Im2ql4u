@@ -16,3 +16,7 @@
 - Researching <b>neural representations</b> of physical systems<br/>
 - Scaling up <b>large-scale ML applications</b> for scientific computing
 </p>
+
+<p style="font-family:Times New Roman; font-size:90%">
+    Last updated: 2026-03-11
+</p>
